@@ -23,7 +23,8 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<link rel="icon" type="image/x-icon" href="./img/apple-touch-icon.png">
+<title>Add Candidates</title>
 <link href="css/style.css" rel="stylesheet">
 <link
 	href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
